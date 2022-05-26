@@ -1,4 +1,4 @@
-package br.com.entra21.Orientacao.objetos.classes;
+package br.com.entra21.orientacao.a.objetos.principal.aula01.classes;
 
 import java.util.Scanner;
 
